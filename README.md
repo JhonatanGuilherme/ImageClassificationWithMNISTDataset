@@ -33,10 +33,23 @@ This project was created to study *deep learning* and their concepts. The princi
 
 The following technologies were used:
 
-- **[Keras API](https://keras.io/)**
-- **[Python3](https://www.python.org/)**
-- **[Tensorflow](https://www.tensorflow.org/)**
-- **[VS Code](https://code.visualstudio.com/)**
+<p align="center">
+    <a href="https://jupyter.org/">
+        <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    </a>
+    <a href="https://keras.io/">
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    </a>
+    <a href="https://www.tensorflow.org/">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </a>
+</p>
 
 ## **📑 License**
 
