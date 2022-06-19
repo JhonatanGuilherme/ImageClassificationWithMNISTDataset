@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="NVIDIA" src="/images/DLI_Header.png" width="300"/>
+    <img alt="NVIDIA" src="/images/DLI_Header.png" width="300">
+    <img alt="repository_title" src="/images/mnist_repository_title.gif"/>
 </h1>
 
 <h1 align="center">
